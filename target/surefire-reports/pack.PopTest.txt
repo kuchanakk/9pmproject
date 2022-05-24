@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: pack.PopTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 109.518 s <<< FAILURE! - in pack.PopTest
+spketest(pack.PopTest)  Time elapsed: 22.828 s  <<< FAILURE!
+java.lang.AssertionError: expected and actual are not same expected [true] but found [false]
+	at pack.PopTest.spketest(PopTest.java:118)
+
